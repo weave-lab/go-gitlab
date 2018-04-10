@@ -1,3 +1,13 @@
+[![pipeline status](https://gitlab.getweave.com/weave-lab/ops/go-gitlab/badges/master/pipeline.svg)](https://gitlab.getweave.com/weave-lab/ops/go-gitlab/commits/master)
+[![coverage report](https://gitlab.getweave.com/weave-lab/ops/go-gitlab/badges/master/coverage.svg)](https://gitlab.getweave.com/weave-lab/ops/go-gitlab/commits/master)
+
+## Installation
+```bash
+go get weavelab.xyz/go-gitlab
+```
+
+For more information on `weavelab.xyz`, see the projects [readme](https://gitlab.getweave.com/weave-lab/ops/xyz/blob/master/README.md).
+
 # go-gitlab
 
 A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
